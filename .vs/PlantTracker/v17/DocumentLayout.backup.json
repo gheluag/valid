@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\albin\\Desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\PlantTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E98B6B1F-276C-49CB-9B9D-FB9D09F064D5}|PlantTracker\\PlantTracker.csproj|c:\\users\\albin\\desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\planttracker\\planttracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98B6B1F-276C-49CB-9B9D-FB9D09F064D5}|PlantTracker\\PlantTracker.csproj|solutionrelative:planttracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98B6B1F-276C-49CB-9B9D-FB9D09F064D5}|PlantTracker\\PlantTracker.csproj|c:\\users\\albin\\desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\planttracker\\planttracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E98B6B1F-276C-49CB-9B9D-FB9D09F064D5}|PlantTracker\\PlantTracker.csproj|solutionrelative:planttracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98B6B1F-276C-49CB-9B9D-FB9D09F064D5}|PlantTracker\\PlantTracker.csproj|c:\\users\\albin\\desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\planttracker\\planttracker\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98B6B1F-276C-49CB-9B9D-FB9D09F064D5}|PlantTracker\\PlantTracker.csproj|solutionrelative:planttracker\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\Desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\PlantTracker\\PlantTracker\\Plant.cs",
+              "RelativeDocumentMoniker": "PlantTracker\\Plant.cs",
+              "ToolTip": "C:\\Users\\albin\\Desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\PlantTracker\\PlantTracker\\Plant.cs",
+              "RelativeToolTip": "PlantTracker\\Plant.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:33:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\albin\\Desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\PlantTracker\\PlantTracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PlantTracker\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\albin\\Desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\PlantTracker\\PlantTracker\\MainWindow.xaml",
+              "RelativeToolTip": "PlantTracker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T20:29:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\Desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\PlantTracker\\PlantTracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PlantTracker\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\albin\\Desktop\\gheluag\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0440\u0430\u0431\u043E\u0447\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\\u043E\u043A\u0444\u043A\u0441\\PlantTracker\\PlantTracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PlantTracker\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwEAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:29:13.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
