@@ -57,15 +57,63 @@
                 </ListView.ContextMenu>
                 <ListView.View>
                     <GridView>
-                        <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Name}" Width="120"/>
-                        <GridViewColumn Header="Частота полива" DisplayMemberBinding="{Binding WaterFrequency}" Width="100"/>
-                        <GridViewColumn Header="Последний полив" DisplayMemberBinding="{Binding LastWateredDate, StringFormat=d}" Width="120"/>
-                        <GridViewColumn Header="Следующий полив" DisplayMemberBinding="{Binding NextWateringDate, StringFormat=d}" Width="120"/>
+                        <GridViewColumn Header="Название" Width="120">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock 
+                                Text="{Binding Name}" 
+                                TextAlignment="Center" 
+                                HorizontalAlignment="Center" 
+                                Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=GridViewColumnHeader}}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Частота полива" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock 
+                                Text="{Binding WaterFrequency}" 
+                                TextAlignment="Center" 
+                                HorizontalAlignment="Center" 
+                                Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=GridViewColumnHeader}}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Последний полив" Width="120">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock 
+                                Text="{Binding LastWateredDate, StringFormat=d}" 
+                                TextAlignment="Center" 
+                                HorizontalAlignment="Center" 
+                                Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=GridViewColumnHeader}}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Следующий полив" Width="120">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock 
+                                Text="{Binding NextWateringDate, StringFormat=d}" 
+                                TextAlignment="Center" 
+                                HorizontalAlignment="Center" 
+                                Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=GridViewColumnHeader}}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
                         <GridViewColumn Header="Статус" Width="120">
                             <GridViewColumn.CellTemplate>
                                 <DataTemplate>
-                                    <TextBlock Text="{Binding WateringStatus}" 
-                                               Foreground="{Binding StatusColor}"/>
+                                    <TextBlock 
+                                Text="{Binding WateringStatus}" 
+                                Foreground="{Binding StatusColor}"
+                                TextAlignment="Center" 
+                                HorizontalAlignment="Center" 
+                                Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=GridViewColumnHeader}}"/>
                                 </DataTemplate>
                             </GridViewColumn.CellTemplate>
                         </GridViewColumn>

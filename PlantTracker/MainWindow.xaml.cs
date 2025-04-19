@@ -89,7 +89,6 @@ public partial class MainWindow : Window
 
         _plants.Add(newPlant);
 
-        // Очищаем поля ввода
         plantNameTextBox.Clear();
         waterFrequencyTextBox.Clear();
         lastWateredDatePicker.SelectedDate = DateTime.Now;
@@ -103,7 +102,7 @@ public partial class MainWindow : Window
 
         var query = _plants.AsEnumerable();
 
-        // Фильтрация по поиску
+       
         if (!string.IsNullOrWhiteSpace(searchTextBox.Text))
         {
             query = query.Where(p => p.Name.Contains(searchTextBox.Text, StringComparison.OrdinalIgnoreCase));
